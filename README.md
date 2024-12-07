@@ -29,14 +29,14 @@ Ensure you have the following installed:
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/yourusername/log-file-analyzer.git
-   cd log-file-analyzer
+   git clone https://github.com/Harshu34/Log-File-Analyzer.git
+   cd LogAnalysis 
    ```
 
 2. **Run the Python Script:**
 
     ```bash
-    python log_analyzer.py
+    python log_analysis.py
     ```
 
 ### Contributions and Features for the Application Project.
